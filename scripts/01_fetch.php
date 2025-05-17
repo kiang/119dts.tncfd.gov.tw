@@ -10,6 +10,7 @@ if (!file_exists("{$rootPath}/docs")) {
 
 // Function to create year/month directories
 function createDirectories($year, $month) {
+    global $rootPath;
     $path = "{$rootPath}/docs/{$year}/{$month}";
     if (!file_exists($path)) {
         mkdir($path, 0777, true);
