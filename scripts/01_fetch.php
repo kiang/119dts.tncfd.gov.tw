@@ -1,16 +1,16 @@
 <?php
-
+$rootPath = dirname(__DIR__);
 // Set UTF-8 encoding
 mb_internal_encoding('UTF-8');
 
 // Create docs directory if it doesn't exist
-if (!file_exists('docs')) {
-    mkdir('docs', 0777, true);
+if (!file_exists("{$rootPath}/docs")) {
+    mkdir("{$rootPath}/docs", 0777, true);
 }
 
 // Function to create year/month directories
 function createDirectories($year, $month) {
-    $path = "docs/{$year}/{$month}";
+    $path = "{$rootPath}/docs/{$year}/{$month}";
     if (!file_exists($path)) {
         mkdir($path, 0777, true);
     }
