@@ -3,6 +3,6 @@
     "datetime": "2025/05/19 06:20:19",
     "case_type": "緊急救護",
     "location": "北區",
-    "unit": "公園分隊",
-    "status": "已派遣"
+    "unit": "公園分隊,和緯分隊",
+    "status": "已出動"
 }
