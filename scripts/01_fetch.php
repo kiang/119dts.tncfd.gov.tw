@@ -59,9 +59,12 @@ foreach ($rows as $row) {
     $cells = $row->getElementsByTagName('td');
     if ($cells->length < 7) continue; // Skip rows without enough cells
     
+    $caseType = trim($cells->item(3)->textContent);
+    if($caseType === '緊急救護') {
+        continue;
+    }
     $caseNumber = trim($cells->item(1)->textContent);
     $datetime = trim($cells->item(2)->textContent);
-    $caseType = trim($cells->item(3)->textContent);
     $location = trim($cells->item(4)->textContent);
     $unit = trim($cells->item(5)->textContent);
     $status = trim($cells->item(6)->textContent);
