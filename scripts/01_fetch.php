@@ -55,9 +55,6 @@ foreach ($rows as $row) {
     if ($cells->length < 7) continue; // Skip rows without enough cells
     
     $caseType = trim($cells->item(3)->textContent);
-    if($caseType === '緊急救護' || $caseType === '其他') {
-        continue;
-    }
     $caseNumber = trim($cells->item(1)->textContent);
     $datetime = trim($cells->item(2)->textContent);
     $location = trim($cells->item(4)->textContent);
