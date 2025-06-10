@@ -3,11 +3,6 @@ $rootPath = dirname(__DIR__);
 // Set UTF-8 encoding
 mb_internal_encoding('UTF-8');
 
-// Create docs directory if it doesn't exist
-if (!file_exists("{$rootPath}/docs")) {
-    mkdir("{$rootPath}/docs", 0777, true);
-}
-
 // Function to create year/month directories
 function createDirectories($year, $month) {
     global $rootPath;
@@ -98,6 +93,6 @@ foreach ($rows as $row) {
 }
 
 // Save complete list
-file_put_contents('docs/list.json', json_encode($allData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
+file_put_contents($rootPath . '/docs/list.json', json_encode($allData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
 
 echo "Processing completed. Total cases processed: " . count($allData) . "\n";
