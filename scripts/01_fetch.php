@@ -78,10 +78,63 @@ foreach ($rows as $row) {
             'status' => $status
         ];
         
-        // Save individual case file
+        // Save individual case file with history
         $dir = createDirectories($year, $month);
         $filePath = "{$dir}/{$caseNumber}.json";
-        file_put_contents($filePath, json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
+        
+        // Check if file exists and load existing data
+        $caseData = [];
+        if (file_exists($filePath)) {
+            $existingContent = file_get_contents($filePath);
+            $existingData = json_decode($existingContent, true);
+            
+            // Handle both old format (single record) and new format (with history)
+            if (isset($existingData['history'])) {
+                $caseData = $existingData;
+            } else {
+                // Convert old format to new format
+                $caseData = [
+                    'id' => $existingData['id'],
+                    'case_type' => $existingData['case_type'],
+                    'location' => $existingData['location'],
+                    'unit' => $existingData['unit'],
+                    'history' => [
+                        [
+                            'datetime' => $existingData['datetime'],
+                            'status' => $existingData['status'],
+                            'updated' => $existingData['datetime']
+                        ]
+                    ]
+                ];
+            }
+        } else {
+            // New case file
+            $caseData = [
+                'id' => $caseNumber,
+                'case_type' => $caseType,
+                'location' => $location,
+                'unit' => $unit,
+                'history' => []
+            ];
+        }
+        
+        // Check if this is a new status update
+        $lastEntry = end($caseData['history']);
+        $needsUpdate = false;
+        
+        if (!$lastEntry || $lastEntry['status'] !== $status || $lastEntry['datetime'] !== $datetime) {
+            $needsUpdate = true;
+        }
+        
+        if ($needsUpdate) {
+            $caseData['history'][] = [
+                'datetime' => $datetime,
+                'status' => $status,
+                'updated' => date('Y/m/d H:i:s')
+            ];
+        }
+        
+        file_put_contents($filePath, json_encode($caseData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
         
         // Add to all data array
         $allData[] = $data;
