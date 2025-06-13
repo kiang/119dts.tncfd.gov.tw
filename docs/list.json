@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "崇善分隊",
-        "status": "已派遣"
+        "status": "已到達"
     },
     {
         "id": "032444",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "安南分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "024146",
