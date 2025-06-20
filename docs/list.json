@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "已派遣"
+        "status": "已到達"
     },
     {
         "id": "224201",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "復興分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "222848",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊",
-        "status": "已出動"
+        "status": "送醫中"
     },
     {
         "id": "222231",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "灣裡分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "221836",
@@ -69,7 +69,7 @@
         "case_type": "緊急救護",
         "location": "台南市佳里區",
         "unit": "佳里分隊",
-        "status": "已到院"
+        "status": "已返隊"
     },
     {
         "id": "220009",
@@ -77,7 +77,7 @@
         "case_type": "緊急救護",
         "location": "台南市善化區",
         "unit": "南科分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "215803",
@@ -93,7 +93,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "安南分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "070100",
