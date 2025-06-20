@@ -3,10 +3,10 @@ $rootPath = dirname(__DIR__);
 // Set UTF-8 encoding
 mb_internal_encoding('UTF-8');
 
-// Function to create year/month directories
-function createDirectories($year, $month) {
+// Function to create year/monthday directories
+function createDirectories($year, $monthday) {
     global $rootPath;
-    $path = "{$rootPath}/docs/{$year}/{$month}";
+    $path = "{$rootPath}/docs/{$year}/{$monthday}";
     if (!file_exists($path)) {
         mkdir($path, 0777, true);
     }
@@ -64,7 +64,7 @@ foreach ($rows as $row) {
     try {
         $dt = processDateTime($datetime);
         $year = $dt->format('Y');
-        $month = $dt->format('m');
+        $monthday = $dt->format('md');
         
         $data = [
             'id' => $caseNumber,
@@ -76,7 +76,7 @@ foreach ($rows as $row) {
         ];
         
         // Save individual case file with history
-        $dir = createDirectories($year, $month);
+        $dir = createDirectories($year, $monthday);
         $filePath = "{$dir}/{$caseNumber}.json";
         
         // Check if file exists and load existing data
