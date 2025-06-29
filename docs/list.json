@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市仁德區",
         "unit": "仁德分隊",
-        "status": "已派遣"
+        "status": "已到達"
     },
     {
         "id": "230250",
@@ -45,7 +45,7 @@
         "case_type": "火災",
         "location": "台南市新營區",
         "unit": "新營分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "223444",
@@ -61,7 +61,7 @@
         "case_type": "緊急救護",
         "location": "台南市仁德區",
         "unit": "文賢分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "222401",
