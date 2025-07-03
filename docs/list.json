@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市中西區",
         "unit": "永華分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "042403",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "040950",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "土城分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "040644",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "125822",
