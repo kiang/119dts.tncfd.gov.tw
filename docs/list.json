@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市仁德區",
         "unit": "文賢分隊",
-        "status": "已派遣"
+        "status": "已出動"
     },
     {
         "id": "031223",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "020801",
