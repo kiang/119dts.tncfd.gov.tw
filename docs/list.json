@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "145116",
@@ -37,7 +37,7 @@
         "case_type": "災害搶救",
         "location": "台南市白河區",
         "unit": "白河分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "144124",
