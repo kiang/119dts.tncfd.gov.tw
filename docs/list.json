@@ -5,15 +5,15 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊,東門分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "065454",
         "datetime": "2025/07/12 06:54:54",
         "case_type": "緊急救護",
         "location": "台南市安南區",
-        "unit": "",
-        "status": "已受理"
+        "unit": "安和分隊",
+        "status": "已派遣"
     },
     {
         "id": "064938",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市六甲區",
         "unit": "六甲分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "064827",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "064035",
