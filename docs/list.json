@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "215948",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市中西區",
         "unit": "中正分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "214637",
@@ -77,7 +77,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "崇善分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "210738",
@@ -85,7 +85,7 @@
         "case_type": "緊急救護",
         "location": "台南市後壁區",
         "unit": "後壁分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "205909",
@@ -93,7 +93,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "203225",
