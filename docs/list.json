@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市下營區",
         "unit": "下營分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "130527",
@@ -69,7 +69,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "122859",
@@ -85,7 +85,7 @@
         "case_type": "緊急救護",
         "location": "台南市西港區",
         "unit": "西港分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "122038",
@@ -93,7 +93,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "121008",
