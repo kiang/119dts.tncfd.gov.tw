@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "024033",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "灣裡分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "021714",
