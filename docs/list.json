@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "已派遣"
+        "status": "已到達"
     },
     {
         "id": "033414",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市鹽水區",
         "unit": "鹽水分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "033224",
