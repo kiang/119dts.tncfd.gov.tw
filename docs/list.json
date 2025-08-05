@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市中西區",
         "unit": "永華分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "034811",
@@ -21,7 +21,7 @@
         "case_type": "其他",
         "location": "台南市下營區",
         "unit": "下營分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "225826",
