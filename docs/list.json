@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市新營區",
         "unit": "新營分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "172011",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "171046",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市中西區",
         "unit": "南門分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "171001",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "崇善分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "165749",
