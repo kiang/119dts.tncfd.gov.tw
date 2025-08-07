@@ -5,7 +5,7 @@
         "case_type": "其他",
         "location": "台南市歸仁區",
         "unit": "歸仁分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "050359",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "安和分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "044309",
