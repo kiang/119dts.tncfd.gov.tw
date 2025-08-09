@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市安定區",
         "unit": "安定分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "214927",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市新營區",
         "unit": "新營分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "213603",
@@ -85,7 +85,7 @@
         "case_type": "其他",
         "location": "台南市七股區",
         "unit": "七股分隊",
-        "status": "已到達"
+        "status": "已返隊"
     },
     {
         "id": "185541",
