@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市安定區",
         "unit": "安定分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "021946",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "崇善分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "021818",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市左鎮區",
         "unit": "山上分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "015048",
@@ -69,7 +69,7 @@
         "case_type": "緊急救護",
         "location": "台南市善化區",
         "unit": "善化分隊",
-        "status": ""
+        "status": "返隊中"
     },
     {
         "id": "012205",
