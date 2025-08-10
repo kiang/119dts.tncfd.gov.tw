@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "南門分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "042921",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市佳里區",
         "unit": "七股分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "034805",
