@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已派遣"
+        "status": "已出動"
     },
     {
         "id": "052914",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市麻豆區",
         "unit": "麻豆分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "011722",
