@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已出動"
+        "status": "送醫中"
     },
     {
         "id": "052914",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市安平區",
         "unit": "永華分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "045922",
