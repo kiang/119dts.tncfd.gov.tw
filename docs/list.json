@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "安南分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "131256",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市後壁區",
         "unit": "後壁分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "130804",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "130416",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "125245",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已到院"
+        "status": "已返隊"
     },
     {
         "id": "125012",
@@ -69,7 +69,7 @@
         "case_type": "其他",
         "location": "台南市柳營區",
         "unit": "柳營分隊",
-        "status": "已到達"
+        "status": "已返隊"
     },
     {
         "id": "124054",
