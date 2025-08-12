@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市麻豆區",
         "unit": "麻豆分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "233335",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "南門分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "222328",
