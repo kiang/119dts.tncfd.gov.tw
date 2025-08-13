@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市歸仁區",
         "unit": "保西分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "012419",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "灣裡分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "011026",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "南門分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "005718",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "004632",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市東山區",
         "unit": "東山分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "001034",
