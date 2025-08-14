@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "214620",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市新市區",
         "unit": "新市分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "210306",
