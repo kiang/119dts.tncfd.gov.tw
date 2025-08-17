@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市新化區",
         "unit": "新化分隊",
-        "status": "已派遣"
+        "status": "已出動"
     },
     {
         "id": "055620",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊",
-        "status": "已出動"
+        "status": "返隊中"
     },
     {
         "id": "054900",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "053333",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "安南分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "051823",
@@ -61,7 +61,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "132001",
