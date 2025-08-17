@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "崇善分隊",
-        "status": "已派遣"
+        "status": "已出動"
     },
     {
         "id": "054706",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市白河區",
         "unit": "白河分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "052026",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "132001",
