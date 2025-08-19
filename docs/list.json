@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "大橋高救",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "041743",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市安定區",
         "unit": "安定分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "041536",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "041505",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市白河區",
         "unit": "白河分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "034056",
