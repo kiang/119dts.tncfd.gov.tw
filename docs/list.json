@@ -13,12 +13,12 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "崇善分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "230414",
         "datetime": "2025/08/23 23:04:14",
-        "case_type": "其他",
+        "case_type": "火災",
         "location": "台南市北區大港街110巷",
         "unit": "和緯分隊",
         "status": "已出動"
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "225647",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市西港區",
         "unit": "西港分隊",
-        "status": "已出動"
+        "status": "已返隊"
     },
     {
         "id": "224208",
@@ -61,7 +61,7 @@
         "case_type": "緊急救護",
         "location": "台南市官田區",
         "unit": "六甲分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "222632",
