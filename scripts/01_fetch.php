@@ -13,6 +13,62 @@ function createDirectories($year, $monthday) {
     return $path;
 }
 
+// Function to archive old data to raw folder
+function archiveOldData() {
+    global $rootPath;
+    $docsPath = "{$rootPath}/docs";
+    $rawPath = "{$rootPath}/raw";
+    
+    // Create raw directory if it doesn't exist
+    if (!file_exists($rawPath)) {
+        mkdir($rawPath, 0777, true);
+    }
+    
+    // Calculate the cutoff date (30 days ago)
+    $cutoffDate = new DateTime();
+    $cutoffDate->sub(new DateInterval('P30D'));
+    
+    // Process year directories
+    $yearDirs = glob("{$docsPath}/20*");
+    foreach ($yearDirs as $yearDir) {
+        $year = basename($yearDir);
+        $monthDayDirs = glob("{$yearDir}/*");
+        
+        foreach ($monthDayDirs as $monthDayDir) {
+            $monthDay = basename($monthDayDir);
+            
+            // Parse the directory date
+            $dirDate = DateTime::createFromFormat('Ymd', $year . $monthDay);
+            if (!$dirDate) continue;
+            
+            // Check if directory is older than cutoff
+            if ($dirDate < $cutoffDate) {
+                // Create corresponding raw directory
+                $rawYearPath = "{$rawPath}/{$year}";
+                $rawMonthDayPath = "{$rawYearPath}/{$monthDay}";
+                
+                if (!file_exists($rawYearPath)) {
+                    mkdir($rawYearPath, 0777, true);
+                }
+                
+                // Move the directory to raw
+                if (file_exists($monthDayDir)) {
+                    echo "Archiving {$year}/{$monthDay} to raw folder...\n";
+                    rename($monthDayDir, $rawMonthDayPath);
+                }
+            }
+        }
+        
+        // Remove empty year directories
+        if (is_dir($yearDir)) {
+            $remaining = glob("{$yearDir}/*");
+            if (empty($remaining)) {
+                rmdir($yearDir);
+            }
+        }
+    }
+}
+
 // Function to process datetime string
 function processDateTime($datetime) {
     $dt = DateTime::createFromFormat('Y/m/d H:i:s', $datetime);
@@ -144,5 +200,8 @@ foreach ($rows as $row) {
 
 // Save complete list
 file_put_contents($rootPath . '/docs/list.json', json_encode($allData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
+
+// Archive old data to raw folder
+archiveOldData();
 
 echo "Processing completed. Total cases processed: " . count($allData) . "\n";
