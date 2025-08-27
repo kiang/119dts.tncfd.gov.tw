@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "崇善分隊",
-        "status": "已派遣"
+        "status": "已到達"
     },
     {
         "id": "004323",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市柳營區",
         "unit": "柳營分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "003736",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市佳里區",
         "unit": "佳里分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "003642",
@@ -77,7 +77,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "235426",
