@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "安南分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "230934",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已派遣"
+        "status": "已到達"
     },
     {
         "id": "230307",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "土城分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "225456",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市麻豆區",
         "unit": "麻豆分隊",
-        "status": ""
+        "status": "返隊中"
     },
     {
         "id": "185204",
