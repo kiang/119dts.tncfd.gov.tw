@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市永康區",
         "unit": "永康分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "141320",
@@ -13,7 +13,7 @@
         "case_type": "火災",
         "location": "台南市麻豆區",
         "unit": "麻豆分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "140832",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市新營區",
         "unit": "新營分隊",
-        "status": "已到達"
+        "status": "已返隊"
     },
     {
         "id": "140735",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市後壁區",
         "unit": "後壁分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "140715",
@@ -85,7 +85,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已到達"
+        "status": ""
     },
     {
         "id": "133952",
@@ -165,7 +165,7 @@
         "case_type": "緊急救護",
         "location": "台南市白河區",
         "unit": "關嶺分隊",
-        "status": "已到院"
+        "status": "已返隊"
     },
     {
         "id": "100534",
