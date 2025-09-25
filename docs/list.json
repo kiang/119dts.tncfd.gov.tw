@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "220114",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "213858",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "南門分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "213836",
