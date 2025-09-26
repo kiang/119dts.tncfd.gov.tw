@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市西港區",
         "unit": "西港分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "155829",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "154910",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "灣裡分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "154017",
