@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "崇善分隊",
-        "status": "已派遣"
+        "status": "已到達"
     },
     {
         "id": "132849",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市新營區",
         "unit": "新營分隊",
-        "status": "已到達"
+        "status": "已到院"
     },
     {
         "id": "132021",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市歸仁區",
         "unit": "歸仁分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "131314",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "130046",
