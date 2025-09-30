@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "灣裡分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "195137",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市永康區",
         "unit": "大灣分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "194509",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市新化區",
         "unit": "新化分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "194306",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市永康區",
         "unit": "復興分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "193611",
@@ -61,7 +61,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "安南分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "192228",
@@ -69,7 +69,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "南門分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "191342",
@@ -85,21 +85,13 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "175725",
         "datetime": "2025/09/30 17:57:25",
         "case_type": "其他",
         "location": "【發電機啟動】台南市新市區紫楝路",
-        "unit": "",
-        "status": "已受理"
-    },
-    {
-        "id": "134646",
-        "datetime": "2025/09/30 13:46:46",
-        "case_type": "其他",
-        "location": "台南市歸仁區凱旋路二段",
         "unit": "",
         "status": "已受理"
     },
