@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市麻豆區",
         "unit": "麻豆分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "220732",
@@ -21,7 +21,7 @@
         "case_type": "火災",
         "location": "台南市白河區",
         "unit": "關嶺分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "215558",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市仁德區",
         "unit": "文賢分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "214222",
@@ -61,7 +61,7 @@
         "case_type": "緊急救護",
         "location": "台南市玉井區",
         "unit": "玉井分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "213107",
