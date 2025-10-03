@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市安平區",
         "unit": "安平分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "230725",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市仁德區",
         "unit": "仁德分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "225520",
@@ -53,7 +53,7 @@
         "case_type": "火災",
         "location": "台南市白河區",
         "unit": "關嶺分隊",
-        "status": "火已滅"
+        "status": "已返隊"
     },
     {
         "id": "213831",
