@@ -29,14 +29,14 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "203509",
         "datetime": "2025/10/19 20:35:09",
         "case_type": "緊急救護",
         "location": "台南市南區",
-        "unit": "南門分隊",
+        "unit": "南門分隊,永華分隊",
         "status": "送醫中"
     },
     {
