@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市中西區",
         "unit": "永華分隊",
-        "status": "已派遣"
+        "status": "已到達"
     },
     {
         "id": "060028",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市新市區",
         "unit": "山上分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "053615",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "051147",
@@ -45,7 +45,7 @@
         "case_type": "火災",
         "location": "臺南市七股區",
         "unit": "七股分隊",
-        "status": "火已滅"
+        "status": "返隊中"
     },
     {
         "id": "022953",
