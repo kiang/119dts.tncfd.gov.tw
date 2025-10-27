@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "永華分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "052914",
@@ -21,14 +21,6 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "送醫中"
-    },
-    {
-        "id": "041252",
-        "datetime": "2025/10/28 04:12:52",
-        "case_type": "緊急救護",
-        "location": "台南市南區",
-        "unit": "灣裡分隊",
         "status": "返隊中"
     },
     {
