@@ -5,15 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市永康區",
         "unit": "大灣分隊",
-        "status": "已到達"
-    },
-    {
-        "id": "055001",
-        "datetime": "2025/11/01 05:50:01",
-        "case_type": "緊急救護",
-        "location": "台南市麻豆區",
-        "unit": "善化分隊",
-        "status": "已返隊"
+        "status": "送醫中"
     },
     {
         "id": "054253",
@@ -21,14 +13,6 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "土城分隊",
-        "status": "已到院"
-    },
-    {
-        "id": "054125",
-        "datetime": "2025/11/01 05:41:25",
-        "case_type": "緊急救護",
-        "location": "台南市永康區",
-        "unit": "永康分隊",
         "status": "返隊中"
     },
     {
@@ -37,6 +21,6 @@
         "case_type": "緊急救護",
         "location": "台南市永康區",
         "unit": "復興分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     }
 ]
