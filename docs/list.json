@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "032440",
@@ -45,7 +45,7 @@
         "case_type": "火災",
         "location": "台南市七股區",
         "unit": "七股分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "161806",
