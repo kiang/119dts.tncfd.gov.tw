@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已派遣"
+        "status": "已到達"
     },
     {
         "id": "014646",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市關廟區",
         "unit": "關廟分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "013929",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "013758",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市東山區",
         "unit": "東原分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "013439",
@@ -69,6 +69,6 @@
         "case_type": "其他",
         "location": "台南市南區",
         "unit": "灣裡分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     }
 ]
