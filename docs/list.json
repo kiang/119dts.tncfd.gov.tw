@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "005018",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市左鎮區",
         "unit": "左鎮分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "003805",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "235555",
