@@ -21,14 +21,14 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "162734",
         "datetime": "2025/11/07 16:29:34",
         "case_type": "緊急救護",
         "location": "台南市安南區",
-        "unit": "安南分隊",
+        "unit": "土城分隊,安南分隊",
         "status": "已到達"
     },
     {
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市鹽水區",
         "unit": "鹽水分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "161549",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "160901",
