@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "安南分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "112527",
@@ -29,7 +29,7 @@
         "case_type": "火災",
         "location": "台南市佳里區",
         "unit": "佳里分隊",
-        "status": "殘火滅"
+        "status": "返隊中"
     },
     {
         "id": "111147",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市新化區",
         "unit": "新化分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "111104",
