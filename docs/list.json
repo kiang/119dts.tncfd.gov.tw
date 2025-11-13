@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "042324",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "041345",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市鹽水區",
         "unit": "鹽水分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "034547",
