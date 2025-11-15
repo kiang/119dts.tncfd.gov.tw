@@ -5,13 +5,13 @@
         "case_type": "緊急救護",
         "location": "台南市新化區",
         "unit": "新化分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "071754",
         "datetime": "2025/11/16 07:17:54",
         "case_type": "火災",
-        "location": "台南市將軍區仁巷",
+        "location": "台南市將軍區",
         "unit": "將軍分隊",
         "status": "已到達"
     },
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "061005",
