@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "235843",
@@ -61,7 +61,7 @@
         "case_type": "其他",
         "location": "台南市麻豆區",
         "unit": "麻豆分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "230819",
