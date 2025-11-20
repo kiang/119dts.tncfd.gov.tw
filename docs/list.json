@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市新營區",
         "unit": "新營分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "134718",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "132049",
