@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "022025",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "南門分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "021548",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "020239",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市安平區",
         "unit": "永華分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "015222",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市鹽水區",
         "unit": "鹽水分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "014415",
