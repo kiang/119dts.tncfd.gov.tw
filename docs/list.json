@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市安平區",
         "unit": "永華分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "023524",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "021014",
