@@ -5,13 +5,13 @@
         "case_type": "緊急救護",
         "location": "台南市永康區",
         "unit": "大灣分隊",
-        "status": "已派遣"
+        "status": "已到達"
     },
     {
         "id": "121223",
         "datetime": "2025/11/24 12:16:20",
         "case_type": "火災",
-        "location": "台南市七股區",
+        "location": "台南市七股區西南航道旁的路",
         "unit": "七股分隊",
         "status": "已出動"
     },
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "崇善分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "120802",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市歸仁區",
         "unit": "歸仁分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "120549",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市新營區",
         "unit": "柳營分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "115754",
@@ -69,7 +69,7 @@
         "case_type": "緊急救護",
         "location": "台南市永康區",
         "unit": "大橋高救",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "115630",
@@ -101,7 +101,7 @@
         "case_type": "緊急救護",
         "location": "台南市麻豆區",
         "unit": "麻豆分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "112218",
@@ -125,7 +125,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊",
-        "status": "已到院"
+        "status": "已返隊"
     },
     {
         "id": "110310",
