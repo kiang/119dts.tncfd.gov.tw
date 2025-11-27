@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "171033",
@@ -21,7 +21,7 @@
         "case_type": "火災",
         "location": "台南市西港區",
         "unit": "西港分隊",
-        "status": "已到達"
+        "status": "已出動"
     },
     {
         "id": "170658",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "南門分隊",
-        "status": "已派遣"
+        "status": "已到達"
     },
     {
         "id": "165151",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "162958",
@@ -93,7 +93,7 @@
         "case_type": "緊急救護",
         "location": "台南市鹽水區",
         "unit": "鹽水分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "155144",
