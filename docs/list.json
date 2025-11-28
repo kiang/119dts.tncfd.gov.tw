@@ -5,15 +5,15 @@
         "case_type": "緊急救護",
         "location": "台南市佳里區",
         "unit": "佳里分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "232140",
         "datetime": "2025/11/28 23:21:43",
         "case_type": "緊急救護",
-        "location": "台台南市安南區",
+        "location": "台南市安南區",
         "unit": "鹽行分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "231954",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市白河區",
         "unit": "白河分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "230553",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "安和分隊",
-        "status": "已到院"
+        "status": "已返隊"
     },
     {
         "id": "222116",
