@@ -5,7 +5,7 @@
         "case_type": "火災",
         "location": "台南市六甲區",
         "unit": "六甲分隊",
-        "status": "已派遣"
+        "status": "已出動"
     },
     {
         "id": "223935",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市永康區",
         "unit": "鹽行分隊",
-        "status": "已出動"
+        "status": "送醫中"
     },
     {
         "id": "223751",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "崇善分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "223625",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市新營區",
         "unit": "新營分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "212816",
