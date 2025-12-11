@@ -13,15 +13,15 @@
         "case_type": "緊急救護",
         "location": "台南市永康區",
         "unit": "永康分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "224543",
         "datetime": "2025/12/11 22:45:43",
         "case_type": "緊急救護",
-        "location": "台南市北區",
+        "location": "台南市東區",
         "unit": "公園分隊",
-        "status": "已到達"
+        "status": "已到院"
     },
     {
         "id": "222758",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市仁德區",
         "unit": "仁德分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "222326",
