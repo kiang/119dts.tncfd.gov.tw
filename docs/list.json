@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市白河區",
         "unit": "白河分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "233953",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "安和分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "231756",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "231204",
@@ -85,7 +85,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "大橋高救",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "221050",
