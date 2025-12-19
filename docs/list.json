@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "050754",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "050034",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市北門區",
         "unit": "北門分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "041457",
