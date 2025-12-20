@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "南門分隊",
-        "status": "已派遣"
+        "status": "已到達"
     },
     {
         "id": "073728",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市新化區",
         "unit": "新化分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "070659",
