@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市歸仁區",
         "unit": "歸仁分隊",
-        "status": "已派遣"
+        "status": "已出動"
     },
     {
         "id": "183830",
@@ -21,7 +21,7 @@
         "case_type": "火災",
         "location": "台南市北門區",
         "unit": "北門分隊",
-        "status": "火已控"
+        "status": "火已滅"
     },
     {
         "id": "182821",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市歸仁區",
         "unit": "保西分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "181903",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "鹽行分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "181737",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "181653",
