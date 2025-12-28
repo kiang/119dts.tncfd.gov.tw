@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "安南分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "221422",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "221128",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "220220",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市歸仁區",
         "unit": "歸仁分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "215751",
@@ -61,7 +61,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "大橋高救",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "213626",
@@ -85,14 +85,6 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已返隊"
-    },
-    {
-        "id": "211547",
-        "datetime": "2025/12/28 21:15:47",
-        "case_type": "緊急救護",
-        "location": "台南市南區",
-        "unit": "南門分隊",
         "status": "已返隊"
     },
     {
