@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "灣裡分隊",
-        "status": "已派遣"
+        "status": "已出動"
     },
     {
         "id": "011231",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "010703",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "安和分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "003244",
