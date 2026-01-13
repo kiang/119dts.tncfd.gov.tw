@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已派遣"
+        "status": "已到達"
     },
     {
         "id": "042146",
@@ -45,14 +45,6 @@
         "case_type": "其他",
         "location": "台南市下營區",
         "unit": "下營分隊",
-        "status": "已返隊"
-    },
-    {
-        "id": "031627",
-        "datetime": "2026/01/14 03:16:27",
-        "case_type": "緊急救護",
-        "location": "台南市歸仁區",
-        "unit": "保西分隊",
         "status": "已返隊"
     },
     {
