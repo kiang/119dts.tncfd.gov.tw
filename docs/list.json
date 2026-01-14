@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市新營區",
         "unit": "新營分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "222515",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "220636",
@@ -53,7 +53,7 @@
         "case_type": "其他",
         "location": "台南市下營區",
         "unit": "下營分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "215222",
@@ -69,7 +69,7 @@
         "case_type": "緊急救護",
         "location": "台南市鹽水區",
         "unit": "鹽水分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "214817",
