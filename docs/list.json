@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "中正分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "011313",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市東山區",
         "unit": "東山分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "010339",
@@ -29,14 +29,6 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "返隊中"
-    },
-    {
-        "id": "005553",
-        "datetime": "2026/02/04 00:55:53",
-        "case_type": "緊急救護",
-        "location": "台南市北區",
-        "unit": "公園分隊",
         "status": "返隊中"
     },
     {
