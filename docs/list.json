@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市安平區",
         "unit": "永華分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "014512",
@@ -13,7 +13,7 @@
         "case_type": "火災",
         "location": "台南市仁德區",
         "unit": "仁德分隊",
-        "status": "已出動"
+        "status": "火已滅"
     },
     {
         "id": "013609",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市楠西區",
         "unit": "楠西分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "002139",
