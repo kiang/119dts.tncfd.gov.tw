@@ -5,13 +5,13 @@
         "case_type": "緊急救護",
         "location": "台南市下營區",
         "unit": "下營分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "052814",
         "datetime": "2026/02/17 05:29:14",
         "case_type": "火災",
-        "location": "台南市安南區",
+        "location": "台南市安南區城西街３段1105巷",
         "unit": "土城分隊",
         "status": "已到達"
     },
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "灣裡分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "052439",
