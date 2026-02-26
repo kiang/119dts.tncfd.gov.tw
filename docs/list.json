@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已到達"
+        "status": "已到院"
     },
     {
         "id": "223335",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市南化區",
         "unit": "南化分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "223230",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市中西區",
         "unit": "南門分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "222727",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "220454",
