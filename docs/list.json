@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "崇善分隊",
-        "status": "已到達"
+        "status": "已到院"
     },
     {
         "id": "051305",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已到達"
+        "status": "已到院"
     },
     {
         "id": "050651",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市仁德區",
         "unit": "文賢分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "035254",
