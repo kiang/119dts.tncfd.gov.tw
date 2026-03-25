@@ -13,7 +13,7 @@
         "case_type": "火災",
         "location": "台南市佳里區佳青路一段",
         "unit": "佳里分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "001435",
@@ -21,15 +21,15 @@
         "case_type": "緊急救護",
         "location": "台南市官田區",
         "unit": "官田分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "235953",
         "datetime": "2026/03/25 23:59:53",
         "case_type": "火災",
-        "location": "台南市新化區中興路",
+        "location": "台南市新化區",
         "unit": "新化分隊",
-        "status": "已到達"
+        "status": "火已滅"
     },
     {
         "id": "234538",
