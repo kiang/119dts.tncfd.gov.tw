@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "220330",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市仁德區",
         "unit": "文賢分隊",
-        "status": "送醫中"
+        "status": "返隊中"
     },
     {
         "id": "214315",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市仁德區",
         "unit": "仁德分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "210711",
@@ -45,6 +45,6 @@
         "case_type": "緊急救護",
         "location": "台南市佳里區",
         "unit": "佳里分隊",
-        "status": "已到院"
+        "status": "返隊中"
     }
 ]
