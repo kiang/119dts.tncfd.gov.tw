@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "中正分隊",
-        "status": "已派遣"
+        "status": "已出動"
     },
     {
         "id": "232622",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "230933",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "225143",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市鹽水區",
         "unit": "鹽水分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "180327",
