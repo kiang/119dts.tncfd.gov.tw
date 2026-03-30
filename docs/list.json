@@ -45,7 +45,7 @@
         "case_type": "火災",
         "location": "台南市鹽水區",
         "unit": "鹽水分隊",
-        "status": "已到達"
+        "status": "火已控"
     },
     {
         "id": "105420",
@@ -157,7 +157,7 @@
         "case_type": "緊急救護",
         "location": "台南市永康區",
         "unit": "永康分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "100502",
@@ -165,6 +165,6 @@
         "case_type": "火災",
         "location": "台南市後壁區",
         "unit": "後壁分隊,新營分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     }
 ]
