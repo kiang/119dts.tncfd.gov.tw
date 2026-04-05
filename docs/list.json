@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "183236",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市東山區",
         "unit": "東原分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "180257",
@@ -77,7 +77,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "崇善分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "172521",
