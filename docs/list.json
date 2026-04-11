@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "崇善分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "065110",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "063744",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "土城分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "061713",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "南門分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "060753",
