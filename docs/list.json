@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市新市區",
         "unit": "新市分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "061539",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "南門分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "060753",
@@ -45,6 +45,6 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "灣裡分隊",
-        "status": "送醫中"
+        "status": "已到院"
     }
 ]
