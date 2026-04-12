@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "崇善分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "220359",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "南門分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "220306",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市西港區",
         "unit": "西港分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "215316",
@@ -77,6 +77,6 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     }
 ]
