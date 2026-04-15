@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "已派遣"
+        "status": "已出動"
     },
     {
         "id": "015111",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市安平區",
         "unit": "安平分隊,永華分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "014939",
@@ -29,6 +29,6 @@
         "case_type": "緊急救護",
         "location": "台南市白河區",
         "unit": "白河分隊",
-        "status": "送醫中"
+        "status": "已到院"
     }
 ]
