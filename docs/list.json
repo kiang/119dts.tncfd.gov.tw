@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "仁德分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "190739",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "190425",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市將軍區",
         "unit": "將軍分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "184758",
