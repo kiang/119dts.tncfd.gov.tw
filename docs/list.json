@@ -5,15 +5,15 @@
         "case_type": "緊急救護",
         "location": "台南市歸仁區",
         "unit": "保西分隊",
-        "status": "已派遣"
+        "status": "已出動"
     },
     {
         "id": "174422",
         "datetime": "2026/05/01 17:44:22",
         "case_type": "緊急救護",
         "location": "台南市南區",
-        "unit": "德興分隊",
-        "status": "已派遣"
+        "unit": "南門分隊",
+        "status": "已出動"
     },
     {
         "id": "173936",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市安定區",
         "unit": "安定分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "171612",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市山上區",
         "unit": "山上分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "171231",
@@ -69,7 +69,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "鹽行分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "170437",
@@ -77,7 +77,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "165013",
@@ -85,7 +85,7 @@
         "case_type": "緊急救護",
         "location": "台南市永康區",
         "unit": "復興分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "164934",
