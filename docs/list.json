@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "南門分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "132552",
@@ -13,14 +13,14 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "崇善分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "132549",
         "datetime": "2026/05/14 13:25:49",
         "case_type": "火災",
         "location": "台南市六甲區",
-        "unit": "六甲分隊",
+        "unit": "下營分隊,六甲分隊",
         "status": "已出動"
     },
     {
@@ -61,7 +61,7 @@
         "case_type": "緊急救護",
         "location": "台南市歸仁區",
         "unit": "歸仁分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "130421",
