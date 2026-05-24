@@ -5,15 +5,15 @@
         "case_type": "緊急救護",
         "location": "台南市佳里區",
         "unit": "佳里分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "191142",
         "datetime": "2026/05/24 19:11:42",
         "case_type": "緊急救護",
-        "location": "台南市北區",
+        "location": "台南市安南區",
         "unit": "和緯分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "191028",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "190628",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市麻豆區",
         "unit": "麻豆分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "190437",
@@ -101,7 +101,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "灣裡分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "183051",
@@ -149,7 +149,7 @@
         "case_type": "緊急救護",
         "location": "高雄市路竹區",
         "unit": "歸仁分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "180535",
