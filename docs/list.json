@@ -5,13 +5,13 @@
         "case_type": "緊急救護",
         "location": "台南市永康區",
         "unit": "鹽行分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "121224",
         "datetime": "2026/06/03 12:12:24",
         "case_type": "緊急救護",
-        "location": "台南市下營區",
+        "location": "台南市麻豆區",
         "unit": "下營分隊",
         "status": "已出動"
     },
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "大橋高救",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "115334",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市學甲區",
         "unit": "學甲分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "112247",
@@ -93,7 +93,7 @@
         "case_type": "緊急救護",
         "location": "台南市後壁區",
         "unit": "鹽水分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "093410",
