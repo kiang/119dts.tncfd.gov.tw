@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "中正分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "114338",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "南門分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "112608",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "111216",
@@ -69,7 +69,7 @@
         "case_type": "緊急救護",
         "location": "台南市善化區",
         "unit": "南科分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "110911",
@@ -85,7 +85,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "105024",
@@ -93,7 +93,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "104558",
