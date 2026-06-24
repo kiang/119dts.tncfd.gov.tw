@@ -21,12 +21,12 @@
         "case_type": "緊急救護",
         "location": "台南市將軍區",
         "unit": "將軍分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "212115",
         "datetime": "2026/06/24 21:21:15",
-        "case_type": "災害搶救",
+        "case_type": "緊急救護",
         "location": "台南市關廟區",
         "unit": "南科分隊,復興分隊,歸仁分隊,關廟分隊",
         "status": "已返隊"
