@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市東山區",
         "unit": "東山分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "205506",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "204023",
@@ -61,7 +61,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已到院"
+        "status": "已返隊"
     },
     {
         "id": "201612",
@@ -69,7 +69,7 @@
         "case_type": "緊急救護",
         "location": "台南市山上區",
         "unit": "山上分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "200536",
