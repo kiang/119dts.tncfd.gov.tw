@@ -5,14 +5,14 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "已派遣"
+        "status": "已到達"
     },
     {
         "id": "063308",
         "datetime": "2026/07/02 06:33:10",
         "case_type": "緊急救護",
         "location": "台南市仁德區",
-        "unit": "歸仁分隊",
+        "unit": "仁德分隊",
         "status": "已出動"
     },
     {
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "鹽行分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "062045",
