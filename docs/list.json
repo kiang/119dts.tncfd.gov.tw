@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市鹽水區",
         "unit": "鹽水分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "151810",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "送醫中"
+        "status": "已到院"
     },
     {
         "id": "150721",
@@ -61,7 +61,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "141011",
