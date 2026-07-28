@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市中西區",
         "unit": "永華分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "035431",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "035000",
@@ -37,14 +37,6 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "德興分隊",
-        "status": "已到院"
-    },
-    {
-        "id": "032503",
-        "datetime": "2026/07/29 03:25:03",
-        "case_type": "緊急救護",
-        "location": "台南市東區",
-        "unit": "崇善分隊",
         "status": "已返隊"
     },
     {
