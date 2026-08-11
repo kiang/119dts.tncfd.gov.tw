@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市永康區",
         "unit": "大橋高救",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "223516",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市永康區",
         "unit": "鹽行分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "222729",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "222237",
@@ -37,7 +37,7 @@
         "case_type": "火災",
         "location": "台南市",
         "unit": "西港分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "221520",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市佳里區",
         "unit": "佳里分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "220915",
@@ -85,7 +85,7 @@
         "case_type": "緊急救護",
         "location": "台南市中西區",
         "unit": "和緯分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "211909",
@@ -181,14 +181,6 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "已返隊"
-    },
-    {
-        "id": "201444",
-        "datetime": "2026/08/11 20:14:44",
-        "case_type": "緊急救護",
-        "location": "台南市北區",
-        "unit": "公園分隊",
         "status": "已返隊"
     },
     {
