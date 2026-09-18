@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "已出動"
+        "status": "送醫中"
     },
     {
         "id": "233030",
@@ -21,7 +21,7 @@
         "case_type": "緊急救護",
         "location": "台南市安平區",
         "unit": "安平分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "233003",
@@ -29,7 +29,7 @@
         "case_type": "緊急救護",
         "location": "台南市歸仁區",
         "unit": "歸仁分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "232501",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "公園分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "231918",
