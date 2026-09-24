@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "063621",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "灣裡分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "063157",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市學甲區",
         "unit": "學甲分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "055701",
@@ -61,7 +61,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "東門分隊",
-        "status": "返隊中"
+        "status": "已返隊"
     },
     {
         "id": "053410",
