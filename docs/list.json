@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市安南區",
         "unit": "鹽行分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "195640",
@@ -21,7 +21,7 @@
         "case_type": "火災",
         "location": "台南市鹽水區",
         "unit": "鹽水分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "193649",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市新營區",
         "unit": "新營分隊",
-        "status": "已到達"
+        "status": "返隊中"
     },
     {
         "id": "192344",
@@ -85,7 +85,7 @@
         "case_type": "緊急救護",
         "location": "台南市新化區",
         "unit": "新化分隊",
-        "status": "已到院"
+        "status": "返隊中"
     },
     {
         "id": "190431",
@@ -93,7 +93,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "南門分隊",
-        "status": "已到院"
+        "status": "已返隊"
     },
     {
         "id": "190142",
