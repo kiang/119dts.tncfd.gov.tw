@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市東區",
         "unit": "後甲分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "073528",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市南區",
         "unit": "南門分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "072148",
@@ -53,7 +53,7 @@
         "case_type": "緊急救護",
         "location": "台南市歸仁區",
         "unit": "仁德分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "070724",
@@ -61,7 +61,7 @@
         "case_type": "緊急救護",
         "location": "台南市山上區",
         "unit": "山上分隊",
-        "status": "已到達"
+        "status": "已返隊"
     },
     {
         "id": "065426",
