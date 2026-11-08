@@ -5,7 +5,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "中正分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "064737",
@@ -13,7 +13,7 @@
         "case_type": "緊急救護",
         "location": "台南市北區",
         "unit": "和緯分隊",
-        "status": "已出動"
+        "status": "已到達"
     },
     {
         "id": "064522",
@@ -37,7 +37,7 @@
         "case_type": "緊急救護",
         "location": "台南市鹽水區",
         "unit": "鹽水分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "063723",
@@ -45,7 +45,7 @@
         "case_type": "緊急救護",
         "location": "台南市善化區",
         "unit": "善化分隊",
-        "status": "已到達"
+        "status": "送醫中"
     },
     {
         "id": "063145",
